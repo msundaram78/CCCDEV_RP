@@ -1,4 +1,4 @@
-result=0&
+<cashnet>result=0&
 respmessage=success&
 custcode=6207815&
 lname=OFOSU&
@@ -57,4 +57,4 @@ billno8=000000000000070&
 itemdesc8=Due Date: 08/21/2023&
 itemterm8=1237TUT&
 itemcnt=8&
-filterdata=<filters><filter><filter_code>1237</filter_code><filter_desc>Fall 2023</filter_desc><order>1</order><is_default>Y</is_default></filter><filter><filter_code>1231</filter_code><filter_desc>Spring 2023</filter_desc><order>2</order><is_default>N</is_default></filter><filter><filter_code>1227</filter_code><filter_desc>Fall 2022</filter_desc><order>3</order><is_default>N</is_default></filter></filters>
+filterdata=<filters><filter><filter_code>1237</filter_code><filter_desc>Fall 2023</filter_desc><order>1</order><is_default>Y</is_default></filter><filter><filter_code>1231</filter_code><filter_desc>Spring 2023</filter_desc><order>2</order><is_default>N</is_default></filter><filter><filter_code>1227</filter_code><filter_desc>Fall 2022</filter_desc><order>3</order><is_default>N</is_default></filter></filters></cashnet>
